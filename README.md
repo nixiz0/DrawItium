@@ -36,7 +36,7 @@ You will find the possibility to draw with several colors, blue, red, green, whi
 
 ## Drawing Tools
 
-![Interface tools](drawing_app/images/interface.png)
+![Interface tools](ressources/readme_interface.png)
 
 **-->** On the far left you have the tool that generates a **random color** every few seconds
 
