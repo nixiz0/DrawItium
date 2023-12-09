@@ -162,4 +162,6 @@ def start_draw(num_cam, width_cam, height_cam, superpos=False):
             cv2.imshow("Drawing Screen", img)
             cv2.imshow("Drawing Picture", imgCanvas)
         if cv2.waitKey(1) == 32:
+            cap.release()
+            cv2.destroyAllWindows()
             break
