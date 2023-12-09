@@ -5,6 +5,8 @@ This app allow you to draw with your fingers using AI recognition.
 
 You will find the possibility to draw with several colors, blue, red, green, white and random colors which generate automatically.
 
+![Example Draw](ressources/example_draw.png)
+
 ## Tech Stack
 
 **AI Recognition:** mediapipe
