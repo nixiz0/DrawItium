@@ -18,6 +18,10 @@ You will find the possibility to draw with several colors, blue, red, green, whi
 
 ## Installation
 
+The fastest way is to clone the repository and click on the **'start-app.bat'** and the application will **launch automatically**.
+
+If you want to run the code from your code environment, do this :
+
 => You need to install **Python 3.11**
 
 1-/ Clone this repository ```git clone https://github.com/nixiz0/DrawItium.git```
